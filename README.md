@@ -1,7 +1,7 @@
-Web-GoogleSearch-Maven
+Web-GoogleSearch-JUnit
 ======================
 
-Source code for very basic Google Search automation example, using `Selenium WebDriver`, with code written in `Java` and dependencies managed by `Maven`. Test runs using the `mvn test` command, on a Google Chrome web browser by default, but can be set to run on Mozilla Firefox if desired.
+Source code for very basic Google Search automation example, using `Selenium WebDriver`, with code written in `Java` and dependencies managed by `Maven`. Test runs using the `mvn test` command through `JUnit`, on a Google Chrome web browser by default, but can be set to run on Mozilla Firefox if desired.
 
 **The Test:** Search for the `onesoftwaretester` keyword in Google and check if the first page results of the search contains links to the [OneSoftwareTester blog](https://onesoftwaretester.wordpress.com/).
 
